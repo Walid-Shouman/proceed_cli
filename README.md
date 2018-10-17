@@ -7,7 +7,7 @@ Python files that have functions either implemented or not implemented.
 
 ## Usage
 - Set the directory for searching for .py files in settings.py.
-- Run """python khallas_cli.py"""
+- Run ```python khallas_cli.py```
 
 ## Contribution
 - Contributing is more than welcomed.
